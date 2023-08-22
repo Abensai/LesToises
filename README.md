@@ -116,3 +116,10 @@ These values are then sent to an API which returns a score.
 If the score is greater than or equal to 5, it returns a message containing
 "Please make an appointment with your doctor".
 If the score is less than 5, it returns a message containing "You have no worrying signs".
+
+`repositorie github public`
+
+    https://github.com/Abensai/LesToises
+
+
+#####problem not solved back end API call in error 404
