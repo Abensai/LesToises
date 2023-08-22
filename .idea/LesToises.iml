@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/MentalHealthApp/tests" isTestSource="true" packagePrefix="App\Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/backend-app/src" isTestSource="false" packagePrefix="App" />
+      <sourceFolder url="file://$MODULE_DIR$/backend-app/var/cache/dev" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/MentalHealthApp/vendor/symfony/flex" />
       <excludeFolder url="file://$MODULE_DIR$/MentalHealthApp/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/MentalHealthApp/vendor/symfony/process" />
