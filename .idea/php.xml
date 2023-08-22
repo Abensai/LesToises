@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/composer" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/MentalHealthApp/vendor/nelmio/cors-bundle" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>
